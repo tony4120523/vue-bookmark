@@ -74,14 +74,14 @@ textarea {
   width: 100%;
   font: inherit;
   padding: 0.15rem;
-  border: 1px solid #ccc;
+  border: 1px solid #c6c6c6;
 }
 
 input:focus,
 textarea:focus {
   outline: none;
-  border-color: #3a0061;
-  background-color: #f7ebff;
+  border-color: #000000;
+  background-color: #fbf8f8;
 }
 
 .form-control {
