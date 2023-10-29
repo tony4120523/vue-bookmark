@@ -3,7 +3,10 @@
 ```
 npm run build
 ```
-commit dist on branch master, git subtree push
+commit dist on branch master & git subtree push
+```
+git add dist -f
+```
 ```
 git subtree push --prefix dist origin gh-pages
 ```
